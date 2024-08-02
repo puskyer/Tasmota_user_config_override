@@ -1,0 +1,17 @@
+https://tasmota.github.io/docs/Sonoff-DIY/
+and
+https://lindevs.com/flash-the-tasmota-firmware-on-sonoff-minir2-switch/
+
+info
+ota_unlock 
+{"data": {}}
+
+
+ota_flash
+{"data": {"downloadUrl": "http://192.168.3.21/firmware/firmware-lite-14.1.0.4.bin", "sha256sum": "3f7595f7c6d938fb42aef9fee3dcda9166cf5c8f0618e012a8767ac6733e6104"}}
+
+
+Tasmota Templates
+{"NAME":"Sonoff MINIR2","GPIO":[32,0,0,0,160,0,0,0,224,320,0,0,0,0],"FLAG":0,"BASE":1}
+{"NAME":"Sonoff MINIR2","GPIO":[17,0,0,0,9,0,0,0,21,157,0,0,0],"FLAG":0,"BASE":1}
+
